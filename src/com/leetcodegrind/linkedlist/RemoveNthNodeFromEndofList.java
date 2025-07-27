@@ -1,4 +1,4 @@
-package com.leetcodegrind.two_pointers;
+package com.leetcodegrind.linkedlist;
 
 public class RemoveNthNodeFromEndofList {
 }
